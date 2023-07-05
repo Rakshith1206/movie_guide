@@ -16,7 +16,7 @@ This is a simple movie search website that allows users to search for movies and
 
 ## Usage
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/Rakshith1206/movie_guide`
 2. Open the `index.html` file in a web browser.
 3. Enter a movie title in the search box and click on a movie from the search results to view its details.
 
