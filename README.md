@@ -26,6 +26,4 @@ Feel free to explore the code and make any modifications or improvements you nee
 
 - This project uses the OMDB API (http://www.omdbapi.com) for fetching movie data.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
